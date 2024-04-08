@@ -1,0 +1,1 @@
+warning: the value 'y' is invalid for SOC_PCNT_GROUPS (defined at /home/matthieu/esp/esp-idf/./components/soc/esp32s3/include/soc/Kconfig.soc_caps.in:638), which has type int -- assignment ignored
